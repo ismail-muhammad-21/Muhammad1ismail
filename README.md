@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Muhammad1ismail
+- 👋 Hi, I’m @Muhammad-ismail
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning java script
 - 💞️ I’m looking to collaborate on 
